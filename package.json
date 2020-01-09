@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-transitions",
+  "version": "1.0.0",
+  "description": "Tailwind plugin to generate utility first transition classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliottrobson/tailwind-transitions.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "tailwindcss-plugin"
+  ],
+  "author": "Eliott Robson",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/eliottrobson/tailwind-transitions/issues"
+  },
+  "homepage": "https://github.com/eliottrobson/tailwind-transitions#readme"
+}
