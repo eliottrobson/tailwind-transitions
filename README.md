@@ -9,7 +9,7 @@ npm install @eliottrobson/tailwind-transitions -g --registry "https://npm.pkg.gi
 ```
 
 ## Configure in tailwind.config.js
-```JSON
+```JS
 {
     theme: {
         transitionProperty: { // defaults
