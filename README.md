@@ -5,7 +5,7 @@ Tailwind plugin to generate utility first transition classes
 
 ## Install the plugin
 ```
-npm install @eliottrobson/tailwind-transitions -g --registry "https://npm.pkg.github.com"
+npm install @eliottrobson/tailwind-transitions --registry "https://npm.pkg.github.com"
 ```
 
 ## Configure in tailwind.config.js
