@@ -1,3 +1,9 @@
+# :no_entry: [DEPRECATED] Available in [Tailwind 1.2](https://tailwindcss.com/docs/release-notes/#tailwind-css-v1-2)
+Tailwind 1.2 has added support for transition utilities and as a result this plugin is no longer required or maintained.
+Documentation can be found on the official site for [Transition Property](https://tailwindcss.com/docs/transition-property), [Transition Duration](https://tailwindcss.com/docs/transition-duration) and [Timing Functions](https://tailwindcss.com/docs/transition-timing-function).
+
+To add support for transition delay you can copy the appropriate part from this plugin to your own project.
+
 # Tailwind Transitions
 Tailwind plugin to generate utility first transition classes
 
